@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Colony",
+  "universe": "CRL · The Colony (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Colony:CRL:a898eb⟧",
+  "carbon": "the-colony.carbon.tiff (TIFF)",
+  "silicon": "the-colony.silicon.png (PNG)",
+  "seal_sha256": "1ec662e1f4ed6032e535b3e435428fea8c841df965de3872197c053403dd60d0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

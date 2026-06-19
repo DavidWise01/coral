@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Zooxanthellae",
+  "universe": "CRL · The Zooxanthellae (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Zooxanthellae:CRL:b0e9bc⟧",
+  "carbon": "the-zooxanthellae.carbon.tiff (TIFF)",
+  "silicon": "the-zooxanthellae.silicon.png (PNG)",
+  "seal_sha256": "e89de164e5a4cdf217fe4ca14bea9dd806fc89a5e401e4c76f4a65da3921ecff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

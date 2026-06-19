@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Polyp",
+  "universe": "CRL · The Polyp (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Polyp:CRL:842aa4⟧",
+  "carbon": "the-polyp.carbon.tiff (TIFF)",
+  "silicon": "the-polyp.silicon.png (PNG)",
+  "seal_sha256": "83753f494de11086029fba7235d06edba4bc6ff404f6e11cc7d3072605ffe385",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

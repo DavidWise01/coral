@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Reef",
+  "universe": "CRL · The Reef (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Reef:CRL:e7b7b9⟧",
+  "carbon": "the-reef.carbon.tiff (TIFF)",
+  "silicon": "the-reef.silicon.png (PNG)",
+  "seal_sha256": "41d86473d4954ef09648a2186d2894dc451e26aa9f145601fc06e295a745e3f2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

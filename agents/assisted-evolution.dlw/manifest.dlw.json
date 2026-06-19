@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Assisted Evolution",
+  "universe": "CRL · Assisted Evolution (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Assisted Evolution:CRL:b68f21⟧",
+  "carbon": "assisted-evolution.carbon.tiff (TIFF)",
+  "silicon": "assisted-evolution.silicon.png (PNG)",
+  "seal_sha256": "babedef1cd9f720a69da2f8d3dac6161690b02c257177ddb555e37ab3100f6ad",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

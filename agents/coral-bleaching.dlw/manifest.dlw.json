@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Coral Bleaching",
+  "universe": "CRL · Coral Bleaching (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Coral Bleaching:CRL:750a3a⟧",
+  "carbon": "coral-bleaching.carbon.tiff (TIFF)",
+  "silicon": "coral-bleaching.silicon.png (PNG)",
+  "seal_sha256": "cbd2123e01138bc2effa5ea18d7e07de1ad07256e685041807f55de80381f12c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

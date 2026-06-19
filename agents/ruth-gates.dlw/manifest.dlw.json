@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ruth Gates",
+  "universe": "CRL · Ruth Gates (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Ruth Gates:CRL:9d36e7⟧",
+  "carbon": "ruth-gates.carbon.tiff (TIFF)",
+  "silicon": "ruth-gates.silicon.png (PNG)",
+  "seal_sha256": "12aa348278205dc29f8a5c576cae8e75bac09a1be86b74de57c3cced6b9c9594",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

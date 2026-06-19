@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Symbiosis",
+  "universe": "CRL · The Symbiosis (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Symbiosis:CRL:a61052⟧",
+  "carbon": "the-symbiosis.carbon.tiff (TIFF)",
+  "silicon": "the-symbiosis.silicon.png (PNG)",
+  "seal_sha256": "6384e421d174f5f4b9c7caf7e240d647e5671834580609b5eb983724837f736c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
